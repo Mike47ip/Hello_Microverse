@@ -87,13 +87,6 @@ Clone this repository to your desired folder:
 Run this command:
 git clone https://github.com/Mike47ip/Hello_Microverse_Project.git
 
-### Install
-
-Install this project with:
-
-cd my-project
-npm install
-
 ### Usage
 
 To run the project, execute the following command:
@@ -139,7 +132,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+If you like this project, please consider giving it a star on GitHub. This will help other people find and use the project. You can also contribute to the project by submitting bug reports, feature requests, or pull requests.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
